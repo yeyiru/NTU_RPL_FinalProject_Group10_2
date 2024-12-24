@@ -1,0 +1,28 @@
+# Editors
+.vscode/
+.idea/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.swp
+
+# Custom
+.env
+*.csv
+*.jpg
+*.png
+*.npy
+*.json
+records/
+scripts/experiments
+
+# ROS workspace
+.catkin_tools/
+build/
+devel/
+ur5e_ws/build
+ur5e_ws/install
+ur5e_ws/log
+
